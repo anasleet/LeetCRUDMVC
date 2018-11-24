@@ -1,0 +1,8 @@
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe.config
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csprojResolveAssemblyReference.cache
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.pdb
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.exe
+c:\users\amikom\documents\visual studio 2015\Projects\LatihanCRUDMVC\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.pdb
